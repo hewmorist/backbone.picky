@@ -1,7 +1,7 @@
 {
   "name": "backbone.picky",
   "version": "0.2.0",
-  "main": "./lib/bacbone.picky..min.js"
+  "main": "./lib/bacbone.picky..min.js",
   "dependencies": {},
   "devDependencies": {
     "matchdep": "~0.1.2",
